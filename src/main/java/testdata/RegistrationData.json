@@ -1,0 +1,44 @@
+{
+	"RegistrationData" :[
+				    {	
+				    	"firstname": "Lokesh",
+				    	"lastname": "Gupta",		       
+			            "username": "lokesh_gupta@gmail.com",
+			            "password": "test@123",	
+			            "age" : 34,
+			            "sex" : "male"
+				    },
+				    {	
+				    	"firstname": "Andres",
+				    	"lastname": "Periera",		       
+			            "username": "andres1889@gmail.com",
+			            "password": "andre#935",	
+			            "age" : 33,
+			            "sex" : "male"
+				    },
+				    {	
+				    	"firstname": "Natasha",
+				    	"lastname": "Coutinho",		       
+			            "username": "iam_natasha@gmail.com",
+			            "password": "nats7845$",	
+			            "age" : 29,
+			            "sex" : "female"
+				    },
+				    {	
+				    	"firstname": "Rachel",
+				    	"lastname": "Johnson",		       
+			            "username": "miss_johnson89@gmail.com",
+			            "password": "@Johnny",	
+			            "age" : 31,
+			            "sex" : "female"
+				    },
+				    {	
+				    	"firstname": "Shweta",
+				    	"lastname": "Singh",		       
+			            "username": "singh_shweta@gmail.com",
+			            "password": "sweety@92",	
+			            "age" : 28,
+			            "sex" : "female"
+				    }
+				]
+}

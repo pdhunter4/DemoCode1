@@ -1,0 +1,28 @@
+{
+	"loginData" :[
+				    {			       
+			            "username": "admin@yourstore.com",
+			            "password": "admin"	
+				    },
+				    {
+	
+			            "username": "admin@yourstore.com",
+			            "password": "admin"
+				    },
+				    {
+	
+			            "username": "admin@yourstore.com",
+			            "password": "admin132"
+				    },
+				    {
+	
+			            "username": "admin134@yourstore.com ",
+			            "password": "admin"
+				    },
+				    {
+	
+			            "username": "",
+			            "password": "admin"
+				    }
+				]
+}
